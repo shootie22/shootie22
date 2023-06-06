@@ -26,3 +26,5 @@ Playing guitar, GNU/Linux, OS kernels, tools, scripting, APIs, display drivers, 
 ## Why is this kinda empty?
 
 I primarily use my own Git instance for version control, which you can find at [git.radunenu.com](https://git.radunenu.com). Most of my repositories on GitHub and my Git instance are private, but if you're interested in any specific project, feel free to reach out to me!
+
+![image](https://github.com/shootie22/shootie22/assets/39218788/f2f596d2-f664-486e-bb0f-fb24cbccc038) ![image](https://github.com/shootie22/shootie22/assets/39218788/616c7d14-e9de-4a07-8a3d-6f7f186aee9a)
