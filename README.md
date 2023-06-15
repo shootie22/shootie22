@@ -17,7 +17,7 @@ If you're curious about any of my projects or want to collaborate, just shoot me
 ## Connect with Me
 
 - 🐦 Twitter: [@RaduNenu](https://twitter.com/RaduNenu)
-- 💬 Discord: shootie#2565
+- 💬 Discord: @cactus.man (_previously shootie#2565_)
 - 📧 Email: hello@radunenu.com
 
 ## Stuff I like 🎸
