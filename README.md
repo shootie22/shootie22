@@ -1,18 +1,22 @@
-## ahoy 👋
+# ahoy 👋
 
-<!--
-**shootie22/shootie22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Radu, and I work as a Technical Designer at [IO Interactive](https://ioi.dk) on [*007 First Light*](https://store.steampowered.com/agecheck/app/3768760/). 
 
-Here are some ideas to get you started:
+Outside of game development, I operate and maintain my own infrastructure of self-hosted systems, focused on reliability and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Infrastructure & Operations
+<img width="1081" height="49" alt="image" src="https://github.com/user-attachments/assets/e2ac7553-0c0e-44a8-b2bb-bcbad359ab51" />
 
-more to come...
+I run a self-hosted platform consisting of **30+ containerized services** deployed across **5 nodes in 3 European regions**, managing it through a repository-driven system.
+
+Core areas of focus:
+
+* Linux server administration (10+ years)
+* Container platforms (**Docker, Kubernetes**)
+* Infrastructure-as-code and GitOps-style configuration
+* Service monitoring and operational visibility
+* CI/CD automation and build pipelines
+* Networking - secure ingress routing and service isolation
+
+*More information will be available on my website which is currently being rebuilt.*  
+*Feel free to reach out in the meantime: hello@radunenu.com*
