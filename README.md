@@ -12,7 +12,7 @@ I run a self-hosted platform consisting of **30+ containerized services** deploy
 
 Most work happens on my [self-hosted Gitea instance](https://git.radunenu.com), and I sync my activity into a [repository here](https://github.com/shootie22/commit-sync) using a tool I built, for activity visibility.
 
-**Focus & practices**:
+**Focus & deets**:
 
 * Linux server administration (10+ years)
 * Container platforms (**Docker, Kubernetes**)
@@ -21,5 +21,4 @@ Most work happens on my [self-hosted Gitea instance](https://git.radunenu.com), 
 * CI/CD automation and build pipelines
 * Networking - secure ingress routing and service isolation
 
-*More information will be available on my website which is currently being rebuilt.*  
-*Feel free to reach out in the meantime: hello@radunenu.com*
+*Feel free to reach out at hello@radunenu.com or directly at [@sus:tchncs.de](https://matrix.to/#/@sus:tchncs.de)*
