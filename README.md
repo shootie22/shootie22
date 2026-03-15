@@ -2,7 +2,7 @@
 
 I'm Radu, and I work as a Technical Designer at [IO Interactive](https://ioi.dk) on [*007 First Light*](https://store.steampowered.com/agecheck/app/3768760/). 
 
-Outside of game development, I operate and maintain my own infrastructure of self-hosted systems, focused on reliability and automation.  
+Outside of game development, I operate and maintain my own infrastructure of self-hosted tools & services. 
 I’m particularly interested in **service infrastructure, reliability engineering, and large-scale platform operations**.
 
 ## Infrastructure & Operations
