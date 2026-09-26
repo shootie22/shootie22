@@ -19,4 +19,6 @@ Most of my free time goes into infrastructure these days, but I still write code
 
 My services are fully run as IaC, and you can find their configs here: [infrastructure](https://github.com/shootie22/infrastructure) and [dotfiles](https://github.com/shootie22/dotfiles).
 
+Most of my day-to-day Git activity happens on my self-hosted Gitea instance, with a small [commit sync](https://github.com/shootie22/commit-sync) mirroring it here.
+
 *Feel free to reach out at hello@radunenu.com or directly at [@sus:tchncs.de](https://matrix.to/#/@sus:tchncs.de)*
