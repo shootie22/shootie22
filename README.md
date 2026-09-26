@@ -1,4 +1,4 @@
-# ahoy 👋
+# 👋
 
 I'm Radu, and I work as a Technical Designer at [IO Interactive](https://ioi.dk) on [*007 First Light*](https://store.steampowered.com/agecheck/app/3768760/).
 
@@ -17,8 +17,6 @@ Most of my free time goes into infrastructure these days, but I still write code
 
 <img width="1081" height="49" alt="image" src="https://github.com/user-attachments/assets/e2ac7553-0c0e-44a8-b2bb-bcbad359ab51" />
 
-The config for most of this lives in [infrastructure](https://github.com/shootie22/infrastructure) and [dotfiles](https://github.com/shootie22/dotfiles).
-
-Most of my day-to-day Git activity happens on my [self-hosted Gitea instance](https://git.radunenu.com), with a small [commit sync](https://github.com/shootie22/commit-sync) mirroring it here.
+My services are fully run as IaC, and you can find their configs here: [infrastructure](https://github.com/shootie22/infrastructure) and [dotfiles](https://github.com/shootie22/dotfiles).
 
 *Feel free to reach out at hello@radunenu.com or directly at [@sus:tchncs.de](https://matrix.to/#/@sus:tchncs.de)*
