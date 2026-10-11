@@ -15,7 +15,14 @@ Most of my free time goes into infrastructure these days, but I still write code
 
 ## infrastructure
 
-<img width="1081" height="49" alt="image" src="https://github.com/user-attachments/assets/e2ac7553-0c0e-44a8-b2bb-bcbad359ab51" />
+<a href="https://radunenu.com/status/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shootie22/shootie22/metrics/assets/infra-dark.svg">
+    <img alt="Infrastructure status: nodes, services and availability" src="https://raw.githubusercontent.com/shootie22/shootie22/metrics/assets/infra-light.svg">
+  </picture>
+</a>
+
+<sub>Live figures from internal monitoring, refreshed hourly.</sub>
 
 My services are fully run as IaC, and you can find their configs here: [infrastructure](https://github.com/shootie22/infrastructure) and [dotfiles](https://github.com/shootie22/dotfiles).
 
