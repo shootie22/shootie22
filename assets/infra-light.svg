@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="28" viewBox="0 0 640 28" role="img" aria-label="all systems operational">
+<title>all systems operational</title>
+<style>
+text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace;fill:#1f2328;white-space:pre}
+.m{fill:#59636e}
+.b{font-weight:600}
+.ring{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.55}80%,100%{transform:scale(2.8);opacity:0}}
+@media (prefers-reduced-motion:reduce){.ring{animation:none;opacity:0}}
+</style>
+<line x1="0" y1="0.5" x2="640" y2="0.5" stroke="#d1d9e0"/>
+<line x1="0" y1="27.5" x2="640" y2="27.5" stroke="#d1d9e0"/>
+<circle class="ring" cx="7" cy="14" r="3.5" fill="#1a7f37"/>
+<circle cx="7" cy="14" r="3.5" fill="#1a7f37"/>
+<text x="18" y="18" font-size="11" xml:space="preserve"><tspan class="b">operational</tspan><tspan class="m">  </tspan><tspan class="b">5/5</tspan><tspan class="m"> nodes</tspan><tspan class="m">  </tspan><tspan class="b">15</tspan><tspan class="m"> services</tspan><tspan class="m">  </tspan><tspan class="b">99.99%</tspan><tspan class="m"> 24h</tspan><tspan class="m">  </tspan><tspan class="b">95.62%</tspan><tspan class="m"> 15d</tspan></text>
+<rect x="440" y="9" width="6.13" height="10" rx="1" fill="#d1d9e0"><title>2026-10-03: no data</title></rect>
+<rect x="448.13" y="9" width="6.13" height="10" rx="1" fill="#d1d9e0"><title>2026-10-04: no data</title></rect>
+<rect x="456.27" y="9" width="6.13" height="10" rx="1" fill="#d1d9e0"><title>2026-10-05: no data</title></rect>
+<rect x="464.4" y="9" width="6.13" height="10" rx="1" fill="#cf222e"><title>2026-10-06: 96.15%</title></rect>
+<rect x="472.53" y="9" width="6.13" height="10" rx="1" fill="#cf222e"><title>2026-10-07: 91.26%</title></rect>
+<rect x="480.67" y="9" width="6.13" height="10" rx="1" fill="#cf222e"><title>2026-10-08: 92.84%</title></rect>
+<rect x="488.8" y="9" width="6.13" height="10" rx="1" fill="#cf222e"><title>2026-10-09: 92.83%</title></rect>
+<rect x="496.93" y="9" width="6.13" height="10" rx="1" fill="#cf222e"><title>2026-10-10: 92.83%</title></rect>
+<rect x="505.07" y="9" width="6.13" height="10" rx="1" fill="#cf222e"><title>2026-10-11: 95.58%</title></rect>
+<rect x="513.2" y="9" width="6.13" height="10" rx="1" fill="#1a7f37"><title>2026-10-12: 99.94%</title></rect>
+<rect x="521.33" y="9" width="6.13" height="10" rx="1" fill="#1a7f37"><title>2026-10-13: 99.97%</title></rect>
+<rect x="529.47" y="9" width="6.13" height="10" rx="1" fill="#1a7f37"><title>2026-10-14: 99.98%</title></rect>
+<rect x="537.6" y="9" width="6.13" height="10" rx="1" fill="#9a6700"><title>2026-10-15: 99.79%</title></rect>
+<rect x="545.73" y="9" width="6.13" height="10" rx="1" fill="#1a7f37"><title>2026-10-16: 99.98%</title></rect>
+<rect x="553.87" y="9" width="6.13" height="10" rx="1" fill="#1a7f37"><title>2026-10-17: 99.99%</title></rect>
+<text x="638" y="18" font-size="11" class="m" text-anchor="end">de dk ro</text>
+</svg>
