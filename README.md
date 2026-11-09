@@ -17,7 +17,7 @@ Most of my free time goes into infrastructure these days, but I still write code
   </picture>
 </a>
 
-<sub>Live figures from internal monitoring, refreshed hourly.</sub>
+<sub>Live figures from internal monitoring, refreshed hourly; internal platform services not counted.</sub>
 
 yeetus network is what I run for myself and friends: a small Kubernetes cluster spread over three countries, with every service declared in Git. The configs are public: [infrastructure](https://github.com/shootie22/infrastructure) and [dotfiles](https://github.com/shootie22/dotfiles).
 
